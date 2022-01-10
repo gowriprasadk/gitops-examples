@@ -7,7 +7,7 @@ metadata:
   name: bgd
   namespace: bgd
 spec:
-  host: "bgd-bgd.apps.cluster-14f8.dynamic.opentlc.com"
+  host: "bgd.apps.cluster-14f8.dynamic.opentlc.com"
   port:
     targetPort: 8080
   to:
